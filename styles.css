@@ -3,10 +3,12 @@ body{
 	background-color:#f8f8f8;
 	margin:0px;
 	padding:0px;
+	
 }
 .white-space{
 	padding:10px;
-	background-color:yellow;
+	background-color:white;
+	width:inherit;
 }
 .book-library
 {
@@ -21,4 +23,13 @@ p{
 }
 .btn{
 	background-color:#2ecc71;
+	align-items:center;
+	text-align:center;
+	color:white;
+	
+	
+}
+.img
+{
+	background-color:rgba(0, 0, 0, 0);
 }
